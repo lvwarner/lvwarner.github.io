@@ -1,0 +1,40 @@
+body{
+    background-color:lightseagreen;
+    background-image: url(graphics/bummer.gif);
+    
+    
+ 
+    
+}
+
+p{
+    color:azure;
+    font: size 16px;
+}
+
+h1{
+    color: azure;
+    
+}
+
+h3{
+    color:rgb(233, 166, 250);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+hr{
+    color:azure;
+    height: 10px;
+    width: 50%;
+}
+
+#pic1{
+    position:absolute; top: 150px; left: 200px; 
+    background-color:rgb(163, 229, 255);
+    padding: 1px;
+    border-top-right-radius: 9000000px;
+    border-bottom-left-radius: 500000px;
+    border-top-left-radius: 9000000px;
+    border-bottom-right-radius: 500000px;
+    border-color: azure;
+}
