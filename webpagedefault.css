@@ -125,12 +125,13 @@ hr{
     top:90px;
 }
 
-video{
+iframe{
     position:absolute;
     top:400px;
     right:407px;
     width:480px;
     height:240px;
     
+
 }
 
