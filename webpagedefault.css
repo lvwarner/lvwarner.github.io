@@ -16,7 +16,7 @@ h1{
     color: azure;
     font-family:Georgia, 'Times New Roman', Times, serif;
     position: absolute;
-    left: 30px;
+    left: 125px;
     top: 10px;
     
 }
@@ -97,7 +97,7 @@ hr{
     height:300px;
     width:240px;
     position:absolute;
-    bottom:-90px;
+   top:430px;
     left:25px;
 }
 
@@ -105,7 +105,7 @@ hr{
     height: 330px;
     width:276px;
     position:absolute;
-    bottom:-90px;
+    top:400px;
     left:950px;
 }
 
@@ -127,10 +127,9 @@ hr{
 
 .vimeo{
     position:absolute;
-    top:400px;
-    left:390px;
-    width:240px;
-    height:0px;
+    top:450px;
+    left:473px;
+    transform: scale(1.7);
     
 
 }
